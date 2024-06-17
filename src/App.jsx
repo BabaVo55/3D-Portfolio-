@@ -4,7 +4,7 @@ import {About, Contact, Experience, Feedbacks,
 Hero, Navbar, Tech, Works, StarsCanvas} from 
 './components';
 
-// try coomment push earlier
+// main app rendering function
 function App() {
   return (
     <div>

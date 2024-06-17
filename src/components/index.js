@@ -8,6 +8,8 @@ import Works from './Works';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
 
+// main component 'hero' intialized'
+// will contain and bring all others together!!!!
 export {
   Hero,
   Navbar,

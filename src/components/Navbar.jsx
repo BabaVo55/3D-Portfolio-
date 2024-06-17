@@ -5,7 +5,7 @@ import { styles } from '../styles'
 import { navLinks } from '../constants'
 import { logo, menu, close } from '../assets'
 const Navbar = () => {
-
+// navbar extensivley added'
   const [active, setActive] = useState('')
   return (
     <nav className={`
